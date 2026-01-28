@@ -11,7 +11,7 @@ const resultDiv = document.getElementById("custom-prompt-result");
 const copyAcknowledgment = document.getElementById("copy-acknowledgment");
 
 // Set your Gemini API key here
-const GEMINI_API_KEY = "YOUR_API_KEY";
+const GEMINI_API_KEY = AIzaSyCa66PKNtghpejMsKLfmHVvWIsnPlTb0RA;
 
 // Update language options based on category
 categorySelect.addEventListener("change", function () {
